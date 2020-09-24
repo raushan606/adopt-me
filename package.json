@@ -30,6 +30,7 @@
     "prettier": "^2.1.2"
   },
   "dependencies": {
+    "reac": "0.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
